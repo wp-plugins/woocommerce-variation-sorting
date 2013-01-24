@@ -1,9 +1,14 @@
-=== BlackCrowValley - Freelance Creative Collective ===
-Contributors: JohnDave
+=== WooCommerce Product Variation Sorting ===
+
+Contributors: JohnDave - BlackCrowValley - Freelance Creative Collective
+
 License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+License 
+URI: http://www.gnu.org/licenses/gpl-3.0.html
+
 
 WooCommerce product variation sorting - Fixed!
+
 
 == Description ==
 
