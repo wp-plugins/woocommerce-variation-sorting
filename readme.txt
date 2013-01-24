@@ -1,9 +1,6 @@
-=== 
-
-WooCommerce product variation sorting ===
+=== WooCommerce product variation sorting ===
 Contributors: JohnDave - BlackCrowValley - Freelance Creative Collective
 License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 WooCommerce product variation sorting - Fixed!
 
